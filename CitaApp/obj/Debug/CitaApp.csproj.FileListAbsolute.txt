@@ -1,0 +1,5 @@
+C:\Users\faristizabal\Documents\Documentos universidad\SEMINARIO .NET Y SQL\ENTREGABLE\CitaApp\CitaApp\bin\Debug\CitaApp.exe.config
+C:\Users\faristizabal\Documents\Documentos universidad\SEMINARIO .NET Y SQL\ENTREGABLE\CitaApp\CitaApp\obj\Debug\CitaApp.csprojResolveAssemblyReference.cache
+C:\Users\faristizabal\Documents\Documentos universidad\SEMINARIO .NET Y SQL\ENTREGABLE\CitaApp\CitaApp\obj\Debug\CitaApp.Form2.resources
+C:\Users\faristizabal\Documents\Documentos universidad\SEMINARIO .NET Y SQL\ENTREGABLE\CitaApp\CitaApp\obj\Debug\CitaApp.Properties.Resources.resources
+C:\Users\faristizabal\Documents\Documentos universidad\SEMINARIO .NET Y SQL\ENTREGABLE\CitaApp\CitaApp\obj\Debug\CitaApp.csproj.GenerateResource.Cache
