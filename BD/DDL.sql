@@ -7,7 +7,7 @@ CREATE TABLE ubicacion (
 	id INT IDENTITY(1,1) NOT NULL,
 	direccion VARCHAR(100) NOT NULL,
 	barrio VARCHAR(35) NOT NULL,
-	localidad VARCHAR(35) NOT NULL,
+	localidad VARCHAR(35),
 	estado BIT DEFAULT 1,
 	PRIMARY KEY (id)
 );
