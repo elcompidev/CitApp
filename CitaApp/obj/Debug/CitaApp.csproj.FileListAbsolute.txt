@@ -3,3 +3,4 @@ C:\Users\faristizabal\Documents\Documentos universidad\SEMINARIO .NET Y SQL\ENTR
 C:\Users\faristizabal\Documents\Documentos universidad\SEMINARIO .NET Y SQL\ENTREGABLE\CitaApp\CitaApp\obj\Debug\CitaApp.Form2.resources
 C:\Users\faristizabal\Documents\Documentos universidad\SEMINARIO .NET Y SQL\ENTREGABLE\CitaApp\CitaApp\obj\Debug\CitaApp.Properties.Resources.resources
 C:\Users\faristizabal\Documents\Documentos universidad\SEMINARIO .NET Y SQL\ENTREGABLE\CitaApp\CitaApp\obj\Debug\CitaApp.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\0 - Proyectos\Seminario\CitApp\CitaApp\bin\Debug\CitaApp.exe.config
