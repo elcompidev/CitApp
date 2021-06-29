@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace CitaApp
 {
-    public partial class Empresa : Form
+    public partial class Categorias : Form
     {
-        public Empresa()
+        public Categorias()
         {
             InitializeComponent();
-
-            int identificacion;
-            string nombre;
-            identificacion = int.Parse(textBox1.Text);
-            nombre = textBox2.ToString();
 
         }
 
@@ -31,8 +26,8 @@ namespace CitaApp
             textBox4.Clear();
             textBox5.Clear();
             textBox6.Clear();
-            textBox7.Clear();
 
         }
+        
     }
 }
