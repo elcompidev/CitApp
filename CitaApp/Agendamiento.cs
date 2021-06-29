@@ -10,19 +10,14 @@ using System.Windows.Forms;
 
 namespace CitaApp
 {
-    public partial class Empresa : Form
+    public partial class Agendamiento : Form
     {
-        public Empresa()
+        public Agendamiento()
         {
             InitializeComponent();
         }
 
-        private void Empresa_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button1_Click(object sender, EventArgs e)
+        private void Form2_Load(object sender, EventArgs e)
         {
 
         }

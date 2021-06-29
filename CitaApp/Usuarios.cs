@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace CitaApp
 {
-    public partial class Login : Form
+    public partial class Usuarios : Form
     {
-        public Login()
+        public Usuarios()
         {
             InitializeComponent();
         }
@@ -27,17 +27,12 @@ namespace CitaApp
 
         }
 
-        private void pictureBox1_Click(object sender, EventArgs e)
+        private void label4_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void Login_Load(object sender, EventArgs e)
+        private void label5_Click(object sender, EventArgs e)
         {
 
         }
